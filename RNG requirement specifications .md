@@ -14,5 +14,7 @@ This program should only be able to generate integer values. The user as well is
 The numbers should be between 1 and 100. 
 The program should run as many times as possible until the number is guessed correctly and it should show the number of trials taken .}
 
+Functional Requirements 
+
 ![image](https://user-images.githubusercontent.com/90287472/133088782-f66a0749-4343-4392-a9fc-5d98bb0cf334.png)
 
