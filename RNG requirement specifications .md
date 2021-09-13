@@ -13,3 +13,6 @@ The program should also be able to compare the stored number and the user input 
 This program should only be able to generate integer values. The user as well is only allowed to input integers. 
 The numbers should be between 1 and 100. 
 The program should run as many times as possible until the number is guessed correctly and it should show the number of trials taken .}
+
+![image](https://user-images.githubusercontent.com/90287472/133088782-f66a0749-4343-4392-a9fc-5d98bb0cf334.png)
+
