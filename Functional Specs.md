@@ -60,11 +60,30 @@ https://github.com/ryanmun/Random-Number-Generator/blob/6d3871e8a8f8fc5461046619
 ## Screen Design
 
 ![screen design](https://user-images.githubusercontent.com/90287472/134087034-e913e6df-cfa9-4185-92cd-a4a87541d1d3.png)
+![scenario 2](https://user-images.githubusercontent.com/90287472/134088713-ff1ae8c6-562f-446d-a684-61b160bab454.png)
+![scenario 1](https://user-images.githubusercontent.com/90287472/134088723-a1439cff-be9e-4fc6-a3ec-e0101086290f.png)
+
 
 Image on git hub link
 https://github.com/ryanmun/Random-Number-Generator/blob/20d3872d2d8f05e8a7d36baaf71380e55ec5ed98/screen%20design.png
+https://github.com/ryanmun/Random-Number-Generator/blob/190660e538722c4505f7cfcee0e54f500752636c/scenario%201.png
+https://github.com/ryanmun/Random-Number-Generator/blob/190660e538722c4505f7cfcee0e54f500752636c/scenario%202.png
 
 ## .Scenarios
 ### 
-    program will ask for you to enter a number
-    2. user 
+    - program will ask for you to enter a number
+    - user hits hits submit button after enterin a number
+
+###
+   - user entered number will be displayed
+   - a message will appear giving feedback on the comparison 
+   - screen color changes depending on feedback
+
+###
+   - hint number will decrease in the case it was wrong
+   - user gets another chance to try again
+   - displays the previous numbers entered 
+
+###
+   - once the tries are finished, programs displays the correct number
+   - ask the user if they want to restart and try again
