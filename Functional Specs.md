@@ -1,11 +1,11 @@
-## Functional Specification
+# Functional Specification
 
-# Current situation 
+## Current situation 
 - with the set up system we have, we have to randomly pick an empolyee or personal from our work force and they have they the oportunity to randomly think of a number which we will we use as the 'Hot Number', which means number to guess.
 - The employee or personal can decide to either note down the number he or she is thinking sbout or they can keep it with them in their head and we have to trust that they keep to their word and not change the number.
 
 
-# Desired system 
+## Desired system 
 - it should be able to be reached and readly accesseable to everyone. 
 - We need it to beable to be accessed at the same time by more than just one user at a time and we would like for it to not only be accessed in our office but anywhere.
 - The webiste should show the set of runs on how the program will operate and the number of tries the user gets.
@@ -15,7 +15,7 @@
 - In the event that the user was succesfull, After completing the operation, a tiny figure praises the user and notifies him or her that they got the right number 
 
 
-# Current processes/assets
+## Current processes/assets
 - we randomly pick a paper in a bowl with a name
 - pen and paper to note down number 
 - operation explanation 
@@ -24,7 +24,7 @@
   * if attempt was a failure an 'x' is put against the name to identify the number of tries 
 - solving Tasks(Together)
  
-# Required business processes
+## Required business processes
 - Explaining how a website works to the user
 - Example of how the progam works(can be in word or animation or video)
 - can be loaded on the website 
@@ -33,12 +33,12 @@
 - output message if higher or lower
 - output message if successful or number of tries is finished 
 
-# Rules for the program
+## Rules for the program
 - should only be able to get an integer value 
 - program should be functional on either mobile browser or computer
 - should have an interface with user 
 
-# List of requirements
+## List of requirements
 - explain how it works
 - Interactive interface
 - Generating number
@@ -50,6 +50,6 @@
 - praise the user if succeful
 - incourage user in case of failure 
 
-# Use Case 
+## Use Case 
 
-RNG Diagram.drawio.png
+https://github.com/ryanmun/Random-Number-Generator/blob/6d3871e8a8f8fc54610466190b315b8ed0315c3f/RNG%20Diagram.drawio.png
