@@ -65,5 +65,6 @@ Image on git hub link
 https://github.com/ryanmun/Random-Number-Generator/blob/20d3872d2d8f05e8a7d36baaf71380e55ec5ed98/screen%20design.png
 
 ## .Scenarios
-### 1. program will ask for you to enter a number
+### 
+    program will ask for you to enter a number
     2. user 
