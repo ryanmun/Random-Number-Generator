@@ -55,3 +55,11 @@
 
 Image on git hub link
 https://github.com/ryanmun/Random-Number-Generator/blob/6d3871e8a8f8fc54610466190b315b8ed0315c3f/RNG%20Diagram.drawio.png
+
+
+## Screen Design
+
+![screen design](https://user-images.githubusercontent.com/90287472/134087034-e913e6df-cfa9-4185-92cd-a4a87541d1d3.png)
+
+Image on git hub link
+https://github.com/ryanmun/Random-Number-Generator/blob/20d3872d2d8f05e8a7d36baaf71380e55ec5ed98/screen%20design.png
