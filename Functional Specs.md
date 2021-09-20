@@ -51,5 +51,7 @@
 - incourage user in case of failure 
 
 ## Use Case 
+![Untitled Diagram drawio](https://user-images.githubusercontent.com/90287472/134085526-3a9c3c37-a7b3-4077-937b-715cb1667805.png)
+
 
 https://github.com/ryanmun/Random-Number-Generator/blob/6d3871e8a8f8fc54610466190b315b8ed0315c3f/RNG%20Diagram.drawio.png
