@@ -69,21 +69,21 @@ https://github.com/ryanmun/Random-Number-Generator/blob/20d3872d2d8f05e8a7d36baa
 https://github.com/ryanmun/Random-Number-Generator/blob/190660e538722c4505f7cfcee0e54f500752636c/scenario%201.png
 https://github.com/ryanmun/Random-Number-Generator/blob/190660e538722c4505f7cfcee0e54f500752636c/scenario%202.png
 
-## .Scenarios
+## Scenarios
 ### 
     - program will ask for you to enter a number
     - user hits hits submit button after enterin a number
 
 ###
-   - user entered number will be displayed
-   - a message will appear giving feedback on the comparison 
-   - screen color changes depending on feedback
+    - user entered number will be displayed
+    - a message will appear giving feedback on the comparison 
+    - screen color changes depending on feedback
 
 ###
-   - hint number will decrease in the case it was wrong
-   - user gets another chance to try again
-   - displays the previous numbers entered 
+    - hint number will decrease in the case it was wrong
+    - user gets another chance to try again
+    - displays the previous numbers entered 
 
 ###
-   - once the tries are finished, programs displays the correct number
-   - ask the user if they want to restart and try again
+    - once the tries are finished, programs displays the correct number
+    - ask the user if they want to restart and try again
