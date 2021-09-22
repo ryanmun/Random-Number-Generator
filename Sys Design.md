@@ -18,9 +18,9 @@ The weekly breakdown of the project parts is shown in the table below:
 #####there should be a table here#########
 
 # Business process model
-*The Client asked our team to create a game able to be accessed on the internet.
-*We will do the software with the developers for several weeks, with documentation, concluding the necessary contracts, and in the meantime we will continuously communicate with the customer periodically.
-*If the software suits both the client and the developers, we will  initially start by getting a beta version then eventually publish it.
+* The Client asked our team to create a game able to be accessed on the internet.
+* We will do the software with the developers for several weeks, with documentation, concluding the necessary contracts, and in the meantime we will continuously communicate with the customer periodically.
+* If the software suits both the client and the developers, we will  initially start by getting a beta version then eventually publish it.
 
 
 # Requirements List
@@ -47,7 +47,7 @@ The weekly breakdown of the project parts is shown in the table below:
   - developers
 
 ## Access rights within the system:
-###System Admin(developers) :
+### System Admin(developers) :
     - can access all parts of the program and make changes without any restrictions
     - with amends coming from the client, can change part of the program as requested by client
 
@@ -75,6 +75,6 @@ The weekly breakdown of the project parts is shown in the table below:
 - Feedback is also displayed on this interface.
 
 # Architectural plan
-***HTML displays the tasks and the description of the tasks.
+*** HTML displays the tasks and the description of the tasks.
 Javascript generates the random number, stores the number generated, also takes in the number entered by user and stores it, keeps all the previouse guessed numbers,
 evaluates or does the comparison of the numbers.
