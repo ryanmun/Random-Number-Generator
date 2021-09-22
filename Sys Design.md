@@ -75,6 +75,6 @@ The weekly breakdown of the project parts is shown in the table below:
 - Feedback is also displayed on this interface.
 
 # Architectural plan
-*** HTML displays the tasks and the description of the tasks.
-Javascript generates the random number, stores the number generated, also takes in the number entered by user and stores it, keeps all the previouse guessed numbers,
-evaluates or does the comparison of the numbers.
+* HTML displays the tasks and the description of the tasks.
+* Javascript generates the random number, stores the number generated, also takes in the number entered by user and stores it, keeps all the previouse guessed numbers,
+* evaluates or does the comparison of the numbers.
