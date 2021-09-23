@@ -58,12 +58,19 @@ https://github.com/ryanmun/Random-Number-Generator/blob/6d3871e8a8f8fc5461046619
 
 ## Screen Design
 
+#### Opening page of the website
 ![Opening page of the website](https://github.com/ryanmun/Random-Number-Generator/blob/6eb530a4637fc5f4a0b8f3b0d0933186c321c3c3/images%20or%20diagrams/opening%20page.jpeg)
 
+
+#### Page requesting for the number from the user
 ![Page requesting for the number from the user](https://github.com/ryanmun/Random-Number-Generator/blob/6eb530a4637fc5f4a0b8f3b0d0933186c321c3c3/images%20or%20diagrams/second%20page%20after.jpeg)
 
+
+#### Scenario 1 : In case of success
 ![Scenario 1 : In case of success](https://github.com/ryanmun/Random-Number-Generator/blob/6eb530a4637fc5f4a0b8f3b0d0933186c321c3c3/images%20or%20diagrams/successfull%20attempt%20by%20user.jpeg)
 
+
+#### Scenario 2 : In case of failure 
 ![Scenario 2 : In case of failure ](https://github.com/ryanmun/Random-Number-Generator/blob/6eb530a4637fc5f4a0b8f3b0d0933186c321c3c3/images%20or%20diagrams/unsuccessfull%20attempt.jpeg)
 
 
