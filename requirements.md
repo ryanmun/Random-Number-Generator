@@ -8,9 +8,9 @@
 - We need it to beable to be accessed at the same time by more than just one user at a time and we would like for it to not only be accessed in our office but anywhere.
 - The webiste should show the set of runs on how the program will operate and the number of tries the user gets.
 - We need it to be able to genarate a random number between a sprcified limit and request the user to guess this number .
-- We need it to be able to interact with the current user who has access to it and to be able to at least tell the user if the number entered is valid, or if the number entered is greater than the generated number or otherwise if its lower.
-- The user will have a set number of tries and if he is unable to get the correct number After completing the operation, a tiny figure pops up sad and advise the user to try again and shows the correct number.
-- In the event that the user was succesfull, After completing the operation, a tiny figure praises the user and notifies him or her that they got the right number 
+- We need it to be able to interact with the current user who has access to it and to be able to at least tell the user if the number entered is valid, or it does not match the generated number
+- In the event that the user was succesfull, After completing the operation, a message praises the user and notifies him or her that they got the right number
+- In the event that the user was not succesfull, After completing the operation, a message should pop up for the user and notifies him or her that they got the wrong number 
 
 
 # Current processes/assets
@@ -28,8 +28,8 @@
 - can be loaded on the website 
 - able to get a number from the user
 - able to compare the number with the randomly generated one
-- output message if higher or lower
-- output message if successful or number of tries is finished 
+- output message if guess number was correct or wrong
+
 
 # Rules for the program
 - should only be able to get an integer value 
