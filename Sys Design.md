@@ -10,7 +10,7 @@
 members participating in  the project:
  - Ryan
  - Yasin
- - Tawqaf
+ - Tawfiq
 
 
 
