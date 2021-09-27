@@ -99,17 +99,6 @@ easily understand.
 - we noted down the required conditions we want to have
 - when we had an error we fixed it so that the program ran smoothly
 
-| Category    | Test Data    | Expected Result    |Actual result | Passed testing |
-| :------------- | :----------: | :-----------: |:----------: |:----------: |
-| Normal(with in given range)  |  10  | Data Accepted| Data Accepted|  :heavy_check_mark: |
-| Normal(with in given range)  |  18  | Data Accepted| Data Accepted|  :heavy_check_mark: |
-| Extreme  | 0  | Data Accepted| Data Accepted|  :heavy_check_mark: |
-| Extreme  | 20  | Data Accepted| Data Accepted|  :heavy_check_mark: |
-|Exceptional|-1  | Data rejected| **Data Accepted**|  ❌: |
-|Exceptional| you | Data rejected| Data rejected|  :heavy_check_mark: |
-|Exceptional| 6778 | Data rejected| Data rejected|  :heavy_check_mark: |
-|Exceptional(after fix)|-1  | Data rejected| Data rejected|  :heavy_check_mark:|
-
 
 # Install plan
 we will put all the files on our server,and install the necessary enviorement,
