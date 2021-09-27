@@ -95,6 +95,9 @@ easily understand.
 - we need to test every function one by one,including system testing
 - testing includes operating the program at the user point of view
 - we wish to run the program 50 time and have no errors occuring
+- we took the test using the known terms, testing the normal conditions, extreme and exceptional 
+- we noted down the required conditions we want to have
+- when we had an error we fixed it so that the program ran smoothly
 
 | Category    | Test Data    | Expected Result    |Actual result | Passed testing |
 | :------------- | :----------: | :-----------: |:----------: |:----------: |
@@ -105,6 +108,7 @@ easily understand.
 |Exceptional|-1  | Data rejected| **Data Accepted**|  ❌: |
 |Exceptional| you | Data rejected| Data rejected|  :heavy_check_mark: |
 |Exceptional| 6778 | Data rejected| Data rejected|  :heavy_check_mark: |
+|Exceptional(after fix)|-1  | Data rejected| Data rejected|  :heavy_check_mark:|
 
 
 # Install plan
