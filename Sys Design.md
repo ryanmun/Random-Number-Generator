@@ -98,6 +98,7 @@ easily understand.
 - we took the test using the known terms, testing the normal conditions, extreme and exceptional 
 - we noted down the required conditions we want to have
 - when we had an error we fixed it so that the program ran smoothly
+- we will have a log system to document every test and change done 
 
 
 # Install plan
