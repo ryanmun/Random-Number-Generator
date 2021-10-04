@@ -1,6 +1,6 @@
 # Random-Number-Generator
 
-- this our a small project for Software Development Methodologies class.
+- this is a small project of ours for Software Development Methodologies class 2021/2022 1st semester.
 
 members: 
 * Ryan Munaki
